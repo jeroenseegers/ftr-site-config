@@ -1,0 +1,15 @@
+{
+    "name": "jeroenseegers/ftr-site-config",
+    "description": "Full-Text RSS site config files",
+    "type": "library",
+    "license": "CC0-1.0",
+    "homepage": "http://fivefilters.org/content-only/",
+    "authors": [
+        {
+            "name": "FiveFilters.org",
+            "email": "fivefilters@fivefilters.org",
+            "homepage": "http://fivefilters.org",
+            "role": "Developer"
+        }
+    ]
+}
